@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/random-starred-repo-cli.svg?style=flat-square)](https://npmjs.com/package/random-starred-repo-cli) [![NPM downloads](https://img.shields.io/npm/dm/random-starred-repo-cli.svg?style=flat-square)](https://npmjs.com/package/random-starred-repo-cli)
 
-> Get a random starred repo in command-cli.
+> Get a random starred repo in command-line.
 
 ## Install
 

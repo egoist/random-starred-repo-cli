@@ -1,7 +1,7 @@
 {
   "name": "random-starred-repo-cli",
   "version": "0.1.0",
-  "description": "Get a random starred repo in command-cli.",
+  "description": "Get a random starred repo in command-line.",
   "license": "MIT",
   "repository": "egoist/random-starred-repo-cli",
   "author": {
